@@ -6,6 +6,7 @@ The script will display information about the host, including its state and deta
 ## Overview
 
 This Python script uses the `nmap` library to scan a target IP address for open ports and services. The script performs a version detection scan (`-sV`) and a default script scan (`-sC`), then outputs the results, including the host's state and information about open ports.
+Meet
 
 ## Prerequisites
 
